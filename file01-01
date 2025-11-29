@@ -3,3 +3,4 @@ test line number two
 test line number 3
 test line number 4 -> entered directly from git hub repsoitory after a push from local git
 test line number 5 trying to do git merge from branch dev1 to main
+adding line in file01-01 from main branch to check the 3 way merge
